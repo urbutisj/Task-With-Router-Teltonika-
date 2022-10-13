@@ -1,0 +1,11 @@
+{
+    "examples": {
+        "title" : "Examples",
+        "index" : 90
+    },
+    "examples/first_task" : {
+        "title" : "First task",
+        "view" : "vuci-app-first-task",
+        "index" : 20
+    }
+}
