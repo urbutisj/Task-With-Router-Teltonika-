@@ -48,7 +48,8 @@ export default {
       ],
       modalVisible: false,
       sectionToEdit: undefined,
-      counter: 1
+      counter: 1,
+      protocol: 'protocol'
     }
   },
   methods: {
